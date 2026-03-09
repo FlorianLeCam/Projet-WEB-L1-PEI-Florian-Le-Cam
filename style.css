@@ -3,8 +3,7 @@ body {
     font-family: 'Segoe UI';
     line-height: 1.6;
     margin: 0;
-    color: #333;
-    background: linear-gradient(blue, pink);
+    color: linear-gradient(blue, pink);
 }
 
 /* Navigation */
