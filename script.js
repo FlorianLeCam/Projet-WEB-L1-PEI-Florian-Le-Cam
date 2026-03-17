@@ -6,10 +6,10 @@ boutonsRetour.forEach(bouton => {
         bouton.style.transition = "transform 0.3s ease";
 
         bouton.onmouseenter = () => {
-            bouton.style.transform = "scale(1.2)"; // Grossit de 20%
+            bouton.style.transform = "scale(1.2)";
 
         bouton.onmouseleave = () => {
-            bouton.style.transform = "scale(1)"; // Revient à la taille normale
+            bouton.style.transform = "scale(1)";
         };
     }
 });
